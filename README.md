@@ -1,7 +1,7 @@
 # South African Soccer Dataset – SQL Analysis
 
 ## Project Overview
-This project analyzes a South African soccer dataset using Google BigQuery.
+This project analyses a South African soccer dataset using Google BigQuery.
 The objective is to answer key analytical questions related to players, teams,
 contracts, salaries, and performance metrics.
 
